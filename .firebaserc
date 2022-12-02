@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mywebpage-ac1a5": {
+      "hosting": {
+        "myWebPage": [
+          "mywebpage-ac1a5"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mywebpage-ac1a5"
+  }
+}
